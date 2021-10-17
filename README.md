@@ -1,6 +1,9 @@
 # Speaker lightboard
 Speaker lightboard is a small app that can be used to highlight a person/image in a panel
 
+![Speaker lightboard](speaker%20lightboard.jpg "Speaker lightboard app")
+![Speaker lightboard activated](speaker%20lightboard2.jpg "Speaker lightboard app")
+
 Just press the mapped key for each of the photos and the photos will be unblurred.
 The number of photos can be adjusted ranges from 1 to 5
 
