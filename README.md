@@ -1,4 +1,4 @@
-# speaker-lightboard
+# Speaker lightboard
 Speaker lightboard is a small app that can be used to highlight a speaking person in a panel
 
 Just press the mapped key for each of the photos and the photos will be unblurred.
