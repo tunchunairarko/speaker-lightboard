@@ -1,5 +1,5 @@
 # Speaker lightboard
-Speaker lightboard is a small app that can be used to highlight a person/image in a panel
+Speaker lightboard is a small app that can be used to highlight a person/image in a panel (build files not included)
 
 ![Speaker lightboard](speaker%20lightboard.jpg "Speaker lightboard app")
 ![Speaker lightboard activated](speaker%20lightboard%202.jpg "Speaker lightboard app")
